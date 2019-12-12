@@ -15,10 +15,6 @@ A lightweight form validation script that augments native HTML5 form validation 
 
 <hr>
 
-### Want to learn how to write your own vanilla JS plugins? Check out my [Vanilla JS Pocket Guides](https://vanillajsguides.com/) or join the [Vanilla JS Academy](https://vanillajsacademy.com) and level-up as a web developer. 🚀
-
-<hr>
-
 
 ## Getting Started
 
