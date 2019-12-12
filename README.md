@@ -1,4 +1,4 @@
-# Bouncer.js [![Build Status](https://travis-ci.org/davidangel/bouncer.svg)](https://travis-ci.org/davidangel/bouncer)
+# Bouncer.js [![Build Status](https://travis-ci.org/davidangel/bouncer.svg)](https://travis-ci.org/davidangel/bouncer) [![](https://data.jsdelivr.com/v1/package/gh/davidangel/bouncer/badge)](https://www.jsdelivr.com/package/gh/davidangel/bouncer)
 A lightweight form validation script that augments native HTML5 form validation elements and attributes.
 
 **[View the Demo on CodePen &rarr;](https://codepen.io/cferdinandi/pen/ywMdKp)**
