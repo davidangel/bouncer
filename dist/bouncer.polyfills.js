@@ -1,5 +1,5 @@
 /*!
- * formbouncerjs v1.4.6
+ * formbouncerjs v1.4.7
  * A lightweight form validation script that augments native HTML5 form validation elements and attributes.
  * (c) 2019 Chris Ferdinandi
  * MIT License
