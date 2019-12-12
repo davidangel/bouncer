@@ -1,4 +1,4 @@
-# Bouncer.js [![Build Status](https://travis-ci.org/cferdinandi/bouncer.svg)](https://travis-ci.org/cferdinandi/bouncer)
+# Bouncer.js [![Build Status](https://travis-ci.org/davidangel/bouncer.svg)](https://travis-ci.org/davidangel/bouncer)
 A lightweight form validation script that augments native HTML5 form validation elements and attributes.
 
 **[View the Demo on CodePen &rarr;](https://codepen.io/cferdinandi/pen/ywMdKp)**
@@ -32,7 +32,7 @@ If you're including your own polyfills or don't want to enable this feature for 
 
 **Direct Download**
 
-You can [download the files directly from GitHub](https://github.com/cferdinandi/bouncer/archive/master.zip).
+You can [download the files directly from GitHub](https://github.com/davidangel/bouncer/archive/master.zip).
 
 ```html
 <script src="path/to/bouncer.polyfills.min.js"></script>
@@ -40,21 +40,21 @@ You can [download the files directly from GitHub](https://github.com/cferdinandi
 
 **CDN**
 
-You can also use the [jsDelivr CDN](https://cdn.jsdelivr.net/gh/cferdinandi/bouncer/dist/). I recommend linking to a specific version number or version range to prevent major updates from breaking your site. Smooth Scroll uses semantic versioning.
+You can also use the [jsDelivr CDN](https://cdn.jsdelivr.net/gh/davidangel/bouncer/dist/). I recommend linking to a specific version number or version range to prevent major updates from breaking your site. Smooth Scroll uses semantic versioning.
 
 ```html
 <!-- Always get the latest version -->
 <!-- Not recommended for production sites! -->
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/bouncer/dist/bouncer.polyfills.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/davidangel/bouncer/dist/bouncer.polyfills.min.js"></script>
 
 <!-- Get minor updates and patch fixes within a major version -->
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/bouncer@1/dist/bouncer.polyfills.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/davidangel/bouncer@1/dist/bouncer.polyfills.min.js"></script>
 
 <!-- Get patch fixes within a minor version -->
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/bouncer@1.0/dist/bouncer.polyfills.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/davidangel/bouncer@1.0/dist/bouncer.polyfills.min.js"></script>
 
 <!-- Get a specific version -->
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/bouncer@1.0.0/dist/bouncer.polyfills.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/davidangel/bouncer@1.0.0/dist/bouncer.polyfills.min.js"></script>
 ```
 
 **NPM**
